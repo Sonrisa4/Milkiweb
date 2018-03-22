@@ -224,3 +224,40 @@ body {
   display: flex;
   flex-direction: row;
 }
+
+.main__button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 100px;
+}
+
+.button {
+  width: 100%;
+  display: flex;
+}
+
+.main-item-btn {
+  width: 100%;
+  padding-top: 18px;
+  padding-bottom: 22px;
+  color: #ffffff;
+  text-align: center;
+  background-color: #de75d5;
+  font-size: 20px;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #312e3b;
+  padding-top:37px;
+  padding-bottom: 40px;
+  color: #ffffff;
+}
+
+.footer__mlkwb {
+  font-size: 20px;
+  text-align: center;
+}
